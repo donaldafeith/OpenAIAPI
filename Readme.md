@@ -45,7 +45,7 @@ This shortcode will display the AI-generated answer within your content.
 
 ## License
 
-This plugin is provided under the MIT License and is available "as-is" without any warranty. Please see the [LICENSE](LICENSE) file for more details.
+This plugin is provided under the MIT License and is available "as-is" without any warranty. 
 
 ---
 
